@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\..\\..\\..\\FestivalMusica_fin"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FestivalDeMusica"
+  }
+}

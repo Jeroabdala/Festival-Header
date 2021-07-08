@@ -1,0 +1,26 @@
+{
+  "name": "festivaldemusica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SaSS y Gul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp",
+    "Node",
+    "NPM"
+  ],
+  "author": "JeroAbdala",
+  "license": "ISC",
+  "dependencies": {
+    "dart-sass": "^1.25.0",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.35.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
